@@ -1,0 +1,2 @@
+# Tone-Recorder
+This was a embedded school project with my partner, Mark Hultin. He focused on the hardware while I wrote the code. This is the code for that project. It was used for an arduino. We had 9 buttons. 7 for tone and two for menu and select. The original project was from this site https://www.hackster.io/lindsi8784/electronic-piano-keyboard-with-preset-songs-74ee7c?ref=search&amp;ref_id=piano&amp;offset=7. We erased the preset tones in the code and added a button and an SD card. It turned out to be a pretty cool project.
